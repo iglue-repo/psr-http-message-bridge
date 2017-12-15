@@ -1,5 +1,8 @@
 {
-    "name": "symfony/psr-http-message-bridge",
+    "name": "symfony@iglue/psr-http-message-bridge",
+    "replace": {
+        "symfony/psr-http-message-bridge": "v1.0.1"
+    },
     "type": "symfony-bridge",
     "description": "PSR HTTP message bridge",
     "keywords": ["http", "psr-7", "http-message"],
